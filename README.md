@@ -3,4 +3,4 @@
 并生成html文件，在html文件修改字符颜色。<br>
 当Running configuration: CERTIFIED,时显示红色。<br>
 当 Running configuration: WORKING,时显示绿色<br>
-![image](https://github.com/DengShicong/OmniSwitch-Running-Certified/blob/main/pictures/html.png)https://github.com/DengShicong/OmniSwitch-Running-Certified/blob/main/pictures/html.png)
+![image](https://github.com/DengShicong/OmniSwitch-Running-Certified/blob/main/pictures/html.png)
