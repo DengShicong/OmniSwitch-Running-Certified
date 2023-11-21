@@ -4,3 +4,8 @@
 当Running configuration: CERTIFIED,时显示红色。<br>
 当 Running configuration: WORKING,时显示绿色<br>
 ![image](https://github.com/DengShicong/OmniSwitch-Running-Certified/blob/main/pictures/html.png)
+
+备注：template.xlsx使用：<br>
+![image](https://github.com/DengShicong/OmniSwitch-Running-Certified/blob/main/pictures/assets.png)
+![image](https://github.com/DengShicong/OmniSwitch-Running-Certified/blob/main/pictures/cmd.png)
+
