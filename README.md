@@ -14,6 +14,6 @@
 ![image](https://github.com/DengShicong/OmniSwitch-Running-Certified/blob/main/pictures/sychornized.png)
 
 # 备注：template.xlsx使用：<br>
-![image](https://github.com/DengShicong/OmniSwitch-Running-Certified/blob/main/pictures/assets.png)
+
 ![image](https://github.com/DengShicong/OmniSwitch-Running-Certified/blob/main/pictures/cmd.png)
 
